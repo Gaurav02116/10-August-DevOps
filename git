@@ -1,0 +1,14 @@
+# Ignore common Linux/Unix shell and config files
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.lesshst
+.vim/
+.viminfo
+.ssh/
+.linux/
+
+# Ignore the .gitignore file itself if you don’t want to track it
+.gitignore
+
